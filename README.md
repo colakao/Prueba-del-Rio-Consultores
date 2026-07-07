@@ -7,7 +7,7 @@
 Estimado candidato, esta prueba está diseñada para evaluar tus habilidades y conocimientos en Unity 3D. Deberás elegir entre una de las dos pruebas para desarrollar, dejando como opcional completar la segunda. Es obligatorio cumplir como mínimo todos los requisitos indicados en cada prueba técnica.
 Es esencial que puedas demostrar tu capacidad de trabajar con proyectos preexistentes y manejar tareas básicas y esenciales dentro del motor Unity. Puedes buscar en internet cualquier detalle o duda que puedas tener durante la prueba. 
 
-Requerimientos: Unity 2022.2.18f1.
+Requerimientos: Unity 6000.3.5f2.
 
 ## Pruebas
 
